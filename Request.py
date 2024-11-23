@@ -8,3 +8,5 @@ response = conn.getresponse()
 Handler.handler (response.status)
 
 conn.close()
+
+#Что-то интересное и не очень интересное
