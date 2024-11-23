@@ -8,3 +8,5 @@ def handler (status):
             print("ОК")
         case _:
             print("Other")
+
+#Что-то интересное
